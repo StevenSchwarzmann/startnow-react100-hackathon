@@ -1,0 +1,23 @@
+{
+  "name": "startnow-react100-hackathon",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "This project was created with the purpose of users being able to find nearby hiking trails based on their geolocation",
+  "main": "index.js",
+  "devDependencies": {},
+  "author": "Steven Schwarzmann",
+  "license": "ISC"
+}

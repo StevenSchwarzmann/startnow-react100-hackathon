@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: olive;
+  height: 100px;
+  padding: 20px;
+
+}
+
+.App-title {
+  font-size: 2em;
+  font-family: Impact, Charcoal, sans-serif;
+}
+
+.App-intro {
+  font-size: large;
+  background-color: rgb(4, 114, 0);
+  height: auto;  
+}
+
+.App-logo {
+  height: 120px;
+  float: right;
+}
+
+.App-logo1 {
+  height: 120px;
+  float: left;
+}
+
+.hikeImage {
+  max-width: 200px;
+  /* background-image: http://www.pdxfamilyadventures.com/2012/11/26/hardesty-trail-loop-hike; */
+}
+
+table, tbody, tr, td {
+  border-bottom: 1px solid black;
+  box-shadow: 1px 1px .2px .2px #666;
+  padding: 5px;
+  background-color: cornsilk;
+}
+
+table {
+  width: 100%;
+}
+
+.tableLoc {
+  float: left;
+}
+
+.td1 {
+  max-width: 200px;
+}
+
+.trailTit {
+  font-size: 18px;
+}
+
